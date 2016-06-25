@@ -1,0 +1,6 @@
+# Precompiled Headers
+*.gch
+
+# Executables
+*.out
+
