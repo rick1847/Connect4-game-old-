@@ -6,5 +6,5 @@ Implemented:<br>
 # in Java (Vers. 2)<br>
 Implemented:<br>
 - Minimax algorithm for single player, <br> 
-- File save system<br><br>
+- File save system<br>
 - Graphic user interface 
