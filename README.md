@@ -1,3 +1,10 @@
 # Connect 4 Game
-# in C++ (version 2 in Java) <br>
-Implemented a minimax algorithm for single player, as well as a file save system
+# in C++ (Vers. 1) <br>
+Implemented:
+<t?Minimax algorithm for single player, 
+<t>File save system<br><br>
+# in Java (Vers. 2)<br>
+Implemented:
+<t?Minimax algorithm for single player, 
+<t>File save system<br><br>
+<t>Graphic user interface 
